@@ -21,10 +21,10 @@ function accessElementInArray(array, index){
 function destructivelyRemoveElementFromBeginningOfArray(array){
   array.shift()
 }
-/*function removeElementFromBeginningOfArray(array){
+function removeElementFromBeginningOfArray(array){
   newArr = array.slice(0)
   return array
 }
-function destructivelyRemoveElementFromEndOfArray(array){}
+/*function destructivelyRemoveElementFromEndOfArray(array){}
 function removeElementFromEndOfArray(){}
 */
