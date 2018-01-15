@@ -22,5 +22,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   array.shift()
 }
 /*function removeElementFromBeginningOfArray(array){}
-function (array){}
+function destructivelyRemoveElementFromEndOfArray(array){}
+function (){}
 */
